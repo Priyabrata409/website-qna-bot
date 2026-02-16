@@ -19,3 +19,10 @@ You need to set up your API keys in the `.env` file.
 Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+## 3. Running the App
+Start the Streamlit application:
+
+```bash
+streamlit run app.py
